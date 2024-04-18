@@ -11,7 +11,7 @@ const color6Btn = document.getElementById('color6');
 const saveBtn = document.getElementById('save');
 const clearEl = document.getElementById('clear');
 const ctx = canvas.getContext('2d');
-let size = 8;
+let size = 8; 
 let isPressed = false;
 let color = 'lightblue';
 let x;

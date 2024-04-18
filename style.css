@@ -2,7 +2,7 @@
 * {
 	box-sizing: border-box;
 }
-body {
+body { 
 	background-color: #5fafff;
 	font-family: 'Roboto', sans-serif;
 	display: flex;
